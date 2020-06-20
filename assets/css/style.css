@@ -5,6 +5,8 @@
 @import "./header.css";
 @import "./buttons.css";
 @import "./main.css";
+@import "./footer.css";
+@import "./responsive.css";
 
 /* Reset Css */
 * {
@@ -16,6 +18,13 @@
   font-weight: 300;
   vertical-align: baseline;
   text-decoration: none;
+  list-style: none;
+}
+
+body {
+  background-image: url("../images/bolha-background.png");
+  background-repeat: no-repeat;
+  background-position: left center;
 }
 
 .container {
