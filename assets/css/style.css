@@ -1,9 +1,17 @@
-@import "./header.css";
+/* Font */
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400&display=swap");
 
+/* Components */
+@import "./header.css";
+@import "./buttons.css";
+
+/* Reset Css */
 * {
   margin: 0;
   padding: 0;
   border: 0;
   font-size: 100%;
+  font-family: "Source Sans Pro", sans-serif;
   vertical-align: baseline;
+  text-decoration: none;
 }
