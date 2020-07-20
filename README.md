@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   <img src="https://vidafullstack.com.br/wp-content/uploads/2019/08/logo-4.png" alt="" width="150">
   <br>
   <p>Baixe os arquivos e seja feliz.</p>
