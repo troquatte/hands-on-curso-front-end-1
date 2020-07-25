@@ -8,7 +8,7 @@
 
 <p>Aulas Desenvolvidas no curso Jornada Front-end modulo: Bootstrap</p>
 <p>Tecnologias: Html, Css, Sass e Design Responsivo</p>
-<p>Veja o projeto clicando aqui => (https://troquatte.github.io/hands-on-curso-front-end-1/)</p>
+<p>Veja o projeto https://troquatte.github.io/hands-on-curso-front-end-1/</p>
 ---
 
 Por ♥ Dener Troquatte :wave: [Linkedin!](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) | [Blog!](https://vidafullstack.com.br/)
